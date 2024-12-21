@@ -1,0 +1,17 @@
+{
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.runInTerminal": true,
+    "workbench.editorAssociations": {
+        "*.cpp": "default"
+    },
+    "continue.enableTabAutocomplete": false,
+    "java.project.referencedLibraries": [
+        "D:/ProgramManajemenGudangMobildanMotorJava/lib/mysql-connector-j-9.1.0.jar"
+    ],
+    "editor.experimentalEditContextEnabled": true,
+    "terminal.integrated.commandsToSkipShell": [
+        ""
+    ],
+    "workbench.settings.useSplitJSON": true,
+    "workbench.editor.enablePreview": false
+}
